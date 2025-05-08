@@ -23,7 +23,7 @@ DevxD98/DevxD98 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview li
 nk to take a look at your changes.
 --->
-<p>[![trophy](https://github-profile-trophy.vercel.app/?devxd98=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devxd98" alt="devxd98" /></a> </p>
 
 ![DevxD98's Stats](https://github-readme-stats.vercel.app/api?username=DevxD98&theme=dracula&show_icons=true&hide_border=false&count_private=true) 
 ![DevxD98's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevxD98&theme=dracula&show_icons=true&hide_border=false&layout=compact)
