@@ -60,9 +60,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DevxD98&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&ring_color=7C3AED" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DevxD98&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevxD98&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevxD98&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=3600" height="180" alt="Top Languages"/>
 
 </div>
 
@@ -78,7 +78,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DevxD98&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DevxD98&theme=tokyonight&no-frame=true&margin-w=4" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
