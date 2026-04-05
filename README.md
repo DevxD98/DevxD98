@@ -26,7 +26,7 @@
 🌱 Learning : TypeScript • AWS • CI/CD
 💬 Ask Me   : Anything! I don't bite 😄
 ⚡ Fun Fact : I'm Batman :>
-` ` `
+```
 
 <br clear="right"/>
 
