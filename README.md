@@ -72,6 +72,12 @@
 
 </div>
 
+<div align="center">
+
+[![My GitFut card](https://gitfut.com/DevxD98.png)](https://gitfut.com/DevxD98)
+
+</div>
+
 ---
 
 ## 🏆 Trophies
