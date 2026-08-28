@@ -1,143 +1,117 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I'm%20Dev%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Dev%20%7C%20Batman%20Enthusiast%20%3A%3E&descAlignY=58&descAlign=50&descSize=20" width="100%"/>
+<img src="assets/hero.svg" width="100%" alt="Dev Mondal — full-stack engineer building agents that ship real work" />
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&random=false&width=550&height=60&lines=Building+Full-Stack+Apps+%F0%9F%9A%80;TypeScript+%7C+Next.js+%7C+AWS+%E2%98%81%EF%B8%8F;Learning+%26+Growing+Every+Day+%F0%9F%8C%B1;Open+to+Collaborations+%F0%9F%A4%9D;Fun+Fact%3A+I'm+Batman+%3A%3E" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=DevxD98&style=for-the-badge&color=7C3AED&labelColor=0D1117)
-[![GitHub followers](https://img.shields.io/github/followers/DevxD98?style=for-the-badge&logo=github&color=7C3AED&labelColor=0D1117)](https://github.com/DevxD98)
+<a href="https://www.linkedin.com/in/dev-mondal-497986223/"><img src="https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B5CF6&labelColor=0D1117" alt="LinkedIn" /></a>
+<a href="https://inquilv1.vercel.app"><img src="https://img.shields.io/badge/inquil_·_live-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0D1117" alt="InQuil" /></a>
+<a href="https://github.com/DevxD98?tab=repositories"><img src="https://img.shields.io/badge/24_repos-0D1117?style=for-the-badge&logo=github&logoColor=F5C56B&labelColor=0D1117" alt="Repositories" /></a>
+<img src="https://komarev.com/ghpvc/?username=DevxD98&style=for-the-badge&color=8B5CF6&labelColor=0D1117" alt="Profile views" />
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
-## 🧑‍🚀 About Me
+## ◈ manifest
 
 ```yaml
-👤 Name     : Dev Mondal
-🌍 Location : India 🇮🇳
-🔭 Working  : Full-Stack Development
-🌱 Learning : TypeScript • AWS • CI/CD
-💬 Ask Me   : Anything! I don't bite 😄
-⚡ Fun Fact : I'm Batman :>
+agent     : dev mondal
+callsign  : DevxD98
+based     : vadodara, india
+role      : full-stack engineer · builds agents and the tools they run on
+shipping  : inquil — an ai co-writer for people writing actual books
+studying  : transformers from first principles, evals, retrieval
+believes  : a demo is not a product; ship the boring parts too
+open_to   : collaborations, freelance, anything with real users
 ```
 
-<br clear="right"/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
----
+## ◈ now in flight
 
-## 🛠️ Tech Arsenal
+> [!NOTE]
+> **[InQuil](https://github.com/DevxD98/inquil-web-prod)** — a writing workspace that treats a manuscript like a manuscript, not a text box.
+> Real paper geometry, CSS multi-column pagination across book spreads, page furniture edited in place, and a docked
+> **Co-writer** surface that suggests without hijacking the page. Recent work: batching suggestion scans so the editor
+> never stalls, cutting the toolbar from nineteen controls down to seven, and collaborator discovery.
+> → **[inquilv1.vercel.app](https://inquilv1.vercel.app)**
 
-<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
 
-**⚡ Frontend**
+## ◈ selected deliveries
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&perline=7" height="52" alt="Frontend Stack"/>
+| | project | what it is |
+|---|---|---|
+| ✦ | **[InQuil](https://github.com/DevxD98/inquil-web-prod)** | AI co-writer + paginated manuscript editor. Spreads, furniture, threads, live collaborators. |
+| ✦ | **[JimmyLabs](https://github.com/DevxD98/JimmyLabs)** | A GPT-style language model built from scratch — and fully documented — on a MacBook Air M1 with 8GB. Documentation-first, so the *why* survives. |
+| ✦ | **[SnackOps](https://github.com/DevxD98/SnackOps)** | An agent that turns fridge photos, receipts and ingredient lists into real meal plans. Multi-modal perception → nutrition tools → planning. |
+| ✦ | **[auto-tester](https://github.com/DevxD98/auto-tester)** | Evidence-driven web testing. Heuristic generation first, AI only where it earns its place. Watch a run execute live, get a report with coverage. |
+| ✦ | **[MCP Form Tester](https://github.com/DevxD98/MCP-FORM_TESTER-AGENT)** | An MCP agent that drives and validates web forms — tooling for the agentic web itself. |
+| ✦ | **[Blobtracking](https://github.com/DevxD98/Blobtracking)** | Real-time blob tracking in TouchDesigner. Generative, interactive, and the most-starred thing I've published. |
+| ✦ | **[kept](https://github.com/DevxD98/kept)** | A habit tracker that looks like an A5 grid journal on a wooden desk. Every dimension snaps to a 5mm grid. |
+| ✦ | **[transcly](https://github.com/DevxD98/transcly)** | Transcription pipeline with a browser extension and a web client alongside it. |
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
-**🔧 Backend & Cloud**
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,aws,firebase,git&perline=7" height="52" alt="Backend Stack"/>
-
-<br/>
-
-**🧰 Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,vscode,github,vercel&perline=7" height="52" alt="Tools"/>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DevxD98&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevxD98&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=3600" height="180" alt="Top Languages"/>
-
-</div>
+## ◈ toolkit
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DevxD98&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=888888&currStreakNum=ffffff&sideNums=ffffff" height="180" alt="GitHub Streak"/>
+**surface**
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&perline=7" height="48" alt="TypeScript, JavaScript, React, Next.js, Tailwind, HTML, CSS" />
+
+**engine**
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,flutter,java,firebase,aws&perline=6" height="48" alt="Python, Node.js, Flutter, Java, Firebase, AWS" />
+
+**bench**
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,androidstudio&perline=6" height="48" alt="Git, GitHub, Vercel, VS Code, Figma, Android Studio" />
 
 </div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## ◈ signals
 
 <div align="center">
 
-[![My GitFut card](https://gitfut.com/DevxD98.png)](https://gitfut.com/DevxD98)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DevxD98&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6&text_color=9AA4C4&cache_seconds=3600" alt="GitHub stats" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevxD98&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=9AA4C4&cache_seconds=3600" alt="Most used languages" />
+
+<br/><br/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=DevxD98&hide_border=true&background=0D1117&stroke=1F2430&ring=8B5CF6&fire=F5C56B&currStreakLabel=22D3EE&sideLabels=9AA4C4&dates=5B6480&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Contribution streak" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevxD98&hide_border=true&bg_color=0D1117&color=9AA4C4&line=8B5CF6&point=F5C56B&area=true&area_color=8B5CF6&title_color=22D3EE" alt="Contribution activity" />
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DevxD98&theme=tokyonight&no-frame=true&margin-w=4" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevxD98&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FF6B6B&area=true&area_color=7C3AED" width="100%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 🐍 Watch My Contributions Get Eaten
+## ◈ the courier's route
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevxD98/DevxD98/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevxD98/DevxD98/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/DevxD98/DevxD98/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevxD98/DevxD98/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevxD98/DevxD98/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="A snake tracing a year of contributions" src="https://raw.githubusercontent.com/DevxD98/DevxD98/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
----
-
-## 🌐 Connect With Me
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/dev-mondal-497986223/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/DevxD98" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+**building quietly in Vadodara — if something here is useful to you, say hello.**
 
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+<a href="https://www.linkedin.com/in/dev-mondal-497986223/"><img src="https://img.shields.io/badge/say_hello-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B5CF6&labelColor=0D1117" alt="Say hello on LinkedIn" /></a>
 
 </div>
 
----
-
-<div align="center">
-
-**⭐ If you like my work, consider giving a star to my repos!**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="assets/divider.svg" width="100%" alt="" />
