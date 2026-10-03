@@ -36,9 +36,10 @@ interests
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/sketch-projects-dark.svg" />
-  <img src="assets/sketch-projects-light.svg" width="100%" alt="Pen sketches of what I'm building: kept.website, SessionSense, Inquil, and open-source work." />
+  <img src="assets/sketch-projects-light.svg" width="100%" alt="Pen sketches of what I'm building: qtr.ai, kept.website, SessionSense, Inquil, and open-source work." />
 </picture>
 
+- **[qtr.ai](https://qtr.ai)** — in progress, more soon
 - **[kept.website](https://kept.website)** — simple notes on the web
 - **[SessionSense](https://github.com/DevxD98/sessionsense-releases)** — a small desktop utility
 - **Inquil** — tools for writers
