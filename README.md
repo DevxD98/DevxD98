@@ -2,7 +2,10 @@
   <img src="assets/retro-ascii-hero.svg" width="100%" alt="A retro computer workstation at night, drawn entirely in text characters: a beige CRT monitor showing a terminal with 'whoami — dev mondal', a keyboard and desk lamp on a wooden desk, and a window onto a moonlit city skyline." />
 </p>
 
-<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sketch-note-hero-dark.svg" />
+  <img src="assets/sketch-note-hero-light.svg" width="100%" alt="Handwritten note with an arrow pointing at the desk: most things I build start here, usually somewhere around 2am." />
+</picture>
 
 ### Dev Mondal
 
@@ -31,6 +34,11 @@ interests
 
 #### `/currently-building`
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sketch-projects-dark.svg" />
+  <img src="assets/sketch-projects-light.svg" width="100%" alt="Pen sketches of what I'm building: kept.website, SessionSense, Inquil, and open-source work." />
+</picture>
+
 - **[kept.website](https://kept.website)** — simple notes on the web
 - **[SessionSense](https://github.com/DevxD98/sessionsense-releases)** — a small desktop utility
 - **Inquil** — tools for writers
@@ -51,10 +59,7 @@ Git · GitHub
 
 #### `/signal`
 
-<p>
-  <img src="assets/activity-log-header.svg" width="100%" alt="activity.log" /><br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevxD98&bg_color=080909&color=8a8277&title_color=c79a5b&line=b86f4b&point=f0e6d6&area=true&area_color=3a211a&hide_border=true&radius=0&custom_title=commit%20transmission" width="100%" alt="Dev Mondal's GitHub commit activity over the last 31 days" />
-</p>
+<img src="https://raw.githubusercontent.com/DevxD98/DevxD98/output/activity-graph.svg" width="100%" alt="Dev Mondal's commit activity over the last 31 days, drawn as a retro terminal readout" />
 
 <br />
 
@@ -66,6 +71,15 @@ Git · GitHub
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevxD98/DevxD98/output/retro-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/DevxD98/DevxD98/output/retro-snake-light.svg" width="100%" alt="Contribution grid being slowly eaten by a snake" />
 </picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sketch-signature-dark.svg" />
+  <img src="assets/sketch-signature-light.svg" width="380" alt="Handwritten: thanks for scrolling this far — Dev" />
+</picture>
+
+<br />
 
 ```text
 $ status

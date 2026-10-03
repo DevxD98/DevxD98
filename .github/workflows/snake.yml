@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate profile graphics
 
 on:
   schedule:
@@ -24,6 +24,13 @@ jobs:
           outputs: |
             dist/retro-snake-dark.svg?color_snake=#e8d5b5&color_dots=#161616,#3a211a,#6e4231,#b86f4b,#e8d5b5
             dist/retro-snake-light.svg?color_snake=#8f5146&color_dots=#ebe7e0,#e2c9ad,#c79a5b,#b86f4b,#8f5146
+
+      - name: Render activity graph
+        run: |
+          mkdir -p dist
+          node .github/scripts/activity-graph.mjs "${{ github.repository_owner }}" dist/activity-graph.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v4
